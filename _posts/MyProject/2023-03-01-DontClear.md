@@ -3,7 +3,7 @@ title: Don't Clear (첫 프로젝트)
 
 date: 2023-03-02 01:02:00 +09:00
 categories: [MyProject]
-tag: [Project]
+tag: [project]
 
 toc: true
 toc_sticky: true
