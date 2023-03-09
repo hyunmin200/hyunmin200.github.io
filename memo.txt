@@ -1,0 +1,11 @@
+블로그 작성시 이런 식으로 작성하기
+
+---
+title: "제목"
+author:
+  name: 200원
+  link: https://github.com/hyunmin200
+date: 2022-12-23 17:42:00 +0900
+categories: [categories]
+tags: [Editor, Jekyll]
+---
